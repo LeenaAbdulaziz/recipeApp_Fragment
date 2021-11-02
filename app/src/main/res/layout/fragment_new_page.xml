@@ -5,14 +5,12 @@
     android:layout_width="match_parent"
     android:orientation="vertical"
     android:layout_margin="15dp"
-    android:layout_height="match_parent"
-    tools:context=".Mainpage">
+    android:layout_height="match_parent">
 
     <Button
         android:id="@+id/button"
         android:layout_marginTop="20dp"
         android:layout_width="match_parent"
-        android:onClick="addrecipe"
         android:layout_height="wrap_content"
         android:text="Add New Recipe" />
 
